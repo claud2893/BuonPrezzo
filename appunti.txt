@@ -1,1 +1,12 @@
-origine prezzi: https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2940
+cut off:
+"""
+    vini_URL = "960"
+    categorie.append(vini_URL)
+
+                if categoria == vini_URL:
+                dati_vini = driver.find_elements(By.CLASS_NAME, 'even')
+                bianco = dati_vini[0].text.split()
+                rosso = dati_vini[1].text.split()
+                prezzo = round(((((float(bianco[-4].replace(",",".")) + float(rosso[-4].replace(",","."))) / 2) * 12) / 100), 2)
+
+                dati_prodotti.append({"nome" : "Vino", "prezzo" : prezzo, "unità" : "L"})
