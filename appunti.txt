@@ -10,3 +10,10 @@ cut off:
                 prezzo = round(((((float(bianco[-4].replace(",",".")) + float(rosso[-4].replace(",","."))) / 2) * 12) / 100), 2)
 
                 dati_prodotti.append({"nome" : "Vino", "prezzo" : prezzo, "unità" : "L"})
+"""
+
+funzione per scrollare: driver.execute_script(
+"arguments[0].scrollIntoView({block: 'center'});", elemento_su_cui_vuoi_scrollare
+)
+
+altro sito su cui fare scraping: https://pamacasa.pampanorama.it/

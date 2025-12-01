@@ -1,0 +1,692 @@
+[
+    {
+        "nome": "Agli",
+        "prezzo": 2.96,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Bieta",
+        "prezzo": 0.5,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Carciofi",
+        "prezzo": 0.61,
+        "unità": "Capolino"
+    },
+    {
+        "nome": "Carote",
+        "prezzo": 0.23,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cavolfiori",
+        "prezzo": 0.65,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cavoli broccoli",
+        "prezzo": 0.5,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cavoli cappucci",
+        "prezzo": 0.83,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cavolo verza",
+        "prezzo": 0.54,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cetrioli serra",
+        "prezzo": 0.85,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cicoria",
+        "prezzo": 0.58,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cipolle",
+        "prezzo": 0.47,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Fagiolini",
+        "prezzo": 2.08,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Finocchi",
+        "prezzo": 0.41,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Indivia",
+        "prezzo": 0.63,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Lattuga",
+        "prezzo": 0.64,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Melanzane serra",
+        "prezzo": 1.05,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Patate comuni",
+        "prezzo": 0.57,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Peperoni serra",
+        "prezzo": 1.55,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pomodori",
+        "prezzo": 0.9,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pomodori serra",
+        "prezzo": 0.93,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Radicchio",
+        "prezzo": 0.46,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Ravanelli",
+        "prezzo": 0.7,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Sedani",
+        "prezzo": 0.6,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Spinaci",
+        "prezzo": 0.87,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Zucchine serra",
+        "prezzo": 0.85,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Avocado",
+        "prezzo": 3.6,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Fichi",
+        "prezzo": 0.7,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Kiwi",
+        "prezzo": 1.95,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Loti",
+        "prezzo": 0.61,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Mele",
+        "prezzo": 0.83,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pere",
+        "prezzo": 1.66,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Uva da tavola",
+        "prezzo": 0.49,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Arance",
+        "prezzo": 0.6,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Clementine",
+        "prezzo": 0.54,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Limoni",
+        "prezzo": 0.73,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Mandarini",
+        "prezzo": 0.49,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Castagne",
+        "prezzo": 2.59,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Mandorle in guscio",
+        "prezzo": 1.82,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Nocciole",
+        "prezzo": 4.28,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Noci",
+        "prezzo": 2.0,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pistacchi",
+        "prezzo": 14.0,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Baliotti",
+        "prezzo": 4.24,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Manze",
+        "prezzo": 4.23,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Scottona",
+        "prezzo": 4.83,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Tori da macello",
+        "prezzo": 2.72,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vacche",
+        "prezzo": 2.41,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vitelle da ristallo",
+        "prezzo": 5.03,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vitelli",
+        "prezzo": 4.57,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vitelli da Ristallo",
+        "prezzo": 5.65,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vitelloni",
+        "prezzo": 4.05,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Scrofe",
+        "prezzo": 0.66,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Suini",
+        "prezzo": 2.74,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Suini",
+        "prezzo": 2.86,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Suini da macello",
+        "prezzo": 1.68,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Suini da macello",
+        "prezzo": 1.86,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Anatre",
+        "prezzo": 3.44,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Faraone",
+        "prezzo": 3.79,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Galline",
+        "prezzo": 0.59,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Piccioni",
+        "prezzo": 8.2,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Polli",
+        "prezzo": 1.6,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Tacchini",
+        "prezzo": 2.23,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Uova da",
+        "prezzo": 0.18,
+        "unità": 1
+    },
+    {
+        "nome": "Uova da allevamento a terra",
+        "prezzo": 0.21,
+        "unità": 1
+    },
+    {
+        "nome": "Uova da allevamento",
+        "prezzo": 0.24,
+        "unità": 1
+    },
+    {
+        "nome": "Agnelli",
+        "prezzo": 6.17,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Agnelloni",
+        "prezzo": 5.11,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pecore",
+        "prezzo": 1.83,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Burro",
+        "prezzo": 3.79,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Crema di latte",
+        "prezzo": 2.42,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Crescenza",
+        "prezzo": 7.1,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Fontal Estero",
+        "prezzo": 6.55,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Fontina",
+        "prezzo": 9.6,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Gorgonzola",
+        "prezzo": 8.56,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Grana padano",
+        "prezzo": 10.91,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Italico",
+        "prezzo": 6.68,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Latte spot",
+        "prezzo": 0.46,
+        "unità": 1
+    },
+    {
+        "nome": "Mascarpone",
+        "prezzo": 5.75,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Montasio",
+        "prezzo": 10.8,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Mozzarella",
+        "prezzo": 7.64,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Parmigiano reggiano",
+        "prezzo": 15.28,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Provolone Val Padana",
+        "prezzo": 8.49,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Taleggio",
+        "prezzo": 7.3,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Toma piemontese",
+        "prezzo": 6.7,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Olio extravergine di oliva",
+        "prezzo": 7.5,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Olio lampante di oliva",
+        "prezzo": 2.83,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Olio vergine di oliva",
+        "prezzo": 4.5,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Avena",
+        "prezzo": 0.2,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Frumento duro",
+        "prezzo": 0.26,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Frumento tenero",
+        "prezzo": 0.23,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Mais",
+        "prezzo": 0.23,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Orzo",
+        "prezzo": 0.21,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Riso",
+        "prezzo": 0.49,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Sorgo",
+        "prezzo": 0.22,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Soia",
+        "prezzo": 0.42,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Riso",
+        "prezzo": 3.0,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Farina Di Frumento",
+        "prezzo": 0.98,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pane Fresco Con Farina Di Grano",
+        "prezzo": 3.9,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pane A Fette",
+        "prezzo": 2.73,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Biscotti",
+        "prezzo": 4.59,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Merenda Preconfezionata",
+        "prezzo": 8.24,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pasta Di Semola Di Grano Duro",
+        "prezzo": 1.63,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cereali Per Colazione",
+        "prezzo": 6.7,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Carne Fresca Bovino",
+        "prezzo": 23.44,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Carne Fresca Suina Con Osso",
+        "prezzo": 10.15,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Petto Di Pollo",
+        "prezzo": 14.17,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Prosciutto Cotto",
+        "prezzo": 28.46,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Prosciutto Crudo",
+        "prezzo": 37.21,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Pancetta In Confezione",
+        "prezzo": 18.82,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Tonno In Scatola",
+        "prezzo": 16.75,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Latte Scremato Alta Digeribilità",
+        "prezzo": 2.35,
+        "unità": "L"
+    },
+    {
+        "nome": "Latte Scremato A Lunga Conservazione",
+        "prezzo": 1.21,
+        "unità": "L"
+    },
+    {
+        "nome": "Yogurt",
+        "prezzo": 4.08,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Parmigiano Reggiano",
+        "prezzo": 25.75,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Stracchino O Crescenza",
+        "prezzo": 13.35,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Fior Di Latte",
+        "prezzo": 8.78,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Bevande Vegetali",
+        "prezzo": 2.33,
+        "unità": "L"
+    },
+    {
+        "nome": "Uova Di Gallina",
+        "prezzo": 1.96,
+        "unità": "Pz"
+    },
+    {
+        "nome": "Burro",
+        "prezzo": 14.0,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Olio Extra Vergine Di Oliva",
+        "prezzo": 7.09,
+        "unità": "L"
+    },
+    {
+        "nome": "Olio Di Semi Di Girasole",
+        "prezzo": 2.22,
+        "unità": "L"
+    },
+    {
+        "nome": "Piselli Surgelati",
+        "prezzo": 3.18,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Spinaci Surgelati",
+        "prezzo": 2.95,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Insalata In Confezione",
+        "prezzo": 8.17,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Passata Di Pomodoro",
+        "prezzo": 2.03,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Patate Surgelate",
+        "prezzo": 2.27,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Zucchero",
+        "prezzo": 1.55,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Miele",
+        "prezzo": 13.05,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Cioccolato In Tavolette",
+        "prezzo": 20.0,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Vaschetta Di Gelato",
+        "prezzo": 5.74,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Aceto Di Vino",
+        "prezzo": 0.97,
+        "unità": "L"
+    },
+    {
+        "nome": "Bastoncini Di Pesce Surgelati",
+        "prezzo": 8.61,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Caffè Tostato",
+        "prezzo": 20.22,
+        "unità": "Kg"
+    },
+    {
+        "nome": "Acqua Minerale",
+        "prezzo": 2.4,
+        "unità": "L"
+    },
+    {
+        "nome": "Bevanda Gassata",
+        "prezzo": 1.43,
+        "unità": "L"
+    },
+    {
+        "nome": "Succo Di Frutta",
+        "prezzo": 1.91,
+        "unità": "L"
+    },
+    {
+        "nome": "Vino Da Tavola",
+        "prezzo": 1.95,
+        "unità": "L"
+    },
+    {
+        "nome": "Vino Spumante",
+        "prezzo": 6.4,
+        "unità": "L"
+    },
+    {
+        "nome": "Birra",
+        "prezzo": 1.89,
+        "unità": "L"
+    }
+]
