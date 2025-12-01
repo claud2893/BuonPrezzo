@@ -1,4 +1,5 @@
 import time as t
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -75,7 +76,7 @@ def database_prezzi():
                     elif unita == "100":
                         prezzo = round((float(prodotto[-5].replace(",",".")) / 100), 2)
                         unita = 1
-                    dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita})
+                    dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita.lower()})
                 else:
                     unita = prodotto[-3].replace("€/","")
                     if unita == "100":
@@ -89,7 +90,7 @@ def database_prezzi():
                         unita == 1
                     else:
                         prezzo = float(prodotto[-4].replace(",","."))
-                    dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita})
+                    dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita.lower()})
 
         except Exception as e:
             print(f"Errore primo scraping: {e}")
@@ -137,7 +138,7 @@ def database_prezzi():
                 prezzo = round(((prezzo / 3) * 4), 2)
                 unita = "L"
 
-            dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita})
+            dati_prodotti.append({"nome" : nome, "prezzo" : prezzo, "unità" : unita.lower()})
                                    
     except Exception as e:
         print(f"Errore secondo scraping: {e}")
@@ -145,6 +146,7 @@ def database_prezzi():
     finally:
         driver.quit()
 
-    return dati_prodotti
+    with open("dati_prodotti.json", "w", encoding="utf-8") as f:
+        json.dump(dati_prodotti, f,indent=4, ensure_ascii=False)
 
-print(database_prezzi())
+    return dati_prodotti
