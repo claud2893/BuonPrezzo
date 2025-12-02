@@ -11,7 +11,7 @@ Il codice attualmente funziona solo per il sito di GialloZafferano. Basta avviar
 L'operazione di creazione del database richiede una quantità di tempo variabile (diversi minuti), dipendentemente dalla connessione e dall'hardware impiegato per avviare il codice. Successivamente alla lettura (ed eventualmente alla crezione) del database, il terminale chiede di incollare l'URL della ricetta della quale si vuole calcolare il costo (attualmente il codice funziona solo sulle ricette di GialloZafferano).
 Proporzionalmente alla quantità necessaria espressa dalla lista ingredienti per ciascuno di esso, il codice calcola il prezzo della ricetta, e restituisce il numero e l'elenco degli ingredienti per i quali non è stato possibile calcolare il costo, dipendentemente dalla quantità non definita nella lista degli ingredienti o dalla sua assenza nel database.
 
-Poichè la nomenclatura fra il database e la lista degli ingredienti non coincide mai del tutto, è stato impiegato uno strumento di calcolo della somiglianza fra queste due etichette attraverso l'assegnazione di un punteggio di coincidenza minima con la libreria RapidFuzz.
+Poiché la nomenclatura fra il database e la lista degli ingredienti non coincide mai del tutto, è stato impiegato uno strumento di calcolo della somiglianza fra queste due etichette attraverso l'assegnazione di un punteggio di coincidenza minima con la libreria RapidFuzz.
 L'accuratezza del risultato è dunque variabile e dipendente, in gran parte dalla nomenclatura e dall'accuratezza della denominazione degli ingredienti e del database.
 
 ## Prospettive di sviluppo
