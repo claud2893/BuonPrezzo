@@ -23,3 +23,4 @@ Il codice è pensato come base di partenza per successivi sviluppi e future impl
 - Sostituzione della libreria RapidFuzz con un agente IA per il riconoscimento degli ingredienti nel database (necessaria un'API per l'impiego dei token)
 - Riconoscimento della data di generazione dell'ultimo database e proposta di aggiornamento (o meccanismo automatico) qualora esso risultasse troppo retrodatato
 - Salvataggio della cronologia di ricerca
+- Scraping in multithread
