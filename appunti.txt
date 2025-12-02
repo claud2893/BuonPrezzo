@@ -16,4 +16,6 @@ funzione per scrollare: driver.execute_script(
 "arguments[0].scrollIntoView({block: 'center'});", elemento_su_cui_vuoi_scrollare
 )
 
+https://www.selenium.dev/documentation/webdriver/actions_api/wheel/
+
 altro sito su cui fare scraping: https://pamacasa.pampanorama.it/
