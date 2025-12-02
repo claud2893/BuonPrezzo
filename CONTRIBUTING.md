@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Il progetto è aperto ad ogni contributo, report di bug, correzione di bug, miglioramento della documentazione e del progetto generale, così come alla proposta di nuove idee. Ogni forma di partecipazione è benvenuta e benaccetta.
